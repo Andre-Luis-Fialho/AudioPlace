@@ -24,5 +24,6 @@ o projeto aplica:
 
 - Java (24.0)
 - Git Bash 
-- VS Code / IntelliJ 
+- JetBrains Intellij IDEA / VSCode
+
 
